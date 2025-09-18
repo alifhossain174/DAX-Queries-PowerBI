@@ -1,4 +1,4 @@
-# Power BI DAX Practice
+# Power BI DAX Queries
 
 This repository contains practice work on DAX queries using Power BI, with sample data sourced from Excel files. The project demonstrates the creation of calculated columns and measures using various DAX functions such as `COUNT()`, `SUM()`, and `IF()`. It also includes screenshots of the Report View, Table View, and Model View from Power BI.
 
